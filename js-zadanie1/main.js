@@ -1,3 +1,3 @@
-let name = 'Anna'
+let name = 'Anna';
 
-let surname = 'Styrna'
+let surname = 'Styrna';
