@@ -4,4 +4,4 @@ let number2 = 8;
 
 let number3 = 12;
 
-let array = [5, 8, 12];
+let array = [nunmber1, number2, number3];
